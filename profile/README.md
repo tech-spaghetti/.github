@@ -7,7 +7,7 @@
 - [Tech-Spaghetti Website](https://tech-spaghetti.com/)
 - [Subscribe](https://tech-spaghetti.com/subscribe/)
 
-This is a Tech-Spaghetti **Member Only** **Github Repository** for sharing blogs and newsletter codebases, proof of concepts, tutorials, etc.
+This is a Tech-Spaghetti Github Repository for sharing blogs and newsletter codebases, proof of concepts, tutorials, etc.
 
 ## Repositories
 
