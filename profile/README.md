@@ -4,10 +4,10 @@
 
 ---
 
-- [Tech-Spaghetti Website](https://tech-spaghetti.com/)
+- [Tech Spaghetti Website](https://tech-spaghetti.com/)
 - [Subscribe](https://tech-spaghetti.com/subscribe/)
 
-This is a Tech-Spaghetti Github Repository for sharing blogs and newsletter codebases, proof of concepts, tutorials, etc.
+This is a Tech Spaghetti Github Repository for sharing blogs and newsletter codebases, proof of concepts, tutorials, etc.
 
 ## Repositories
 
@@ -22,4 +22,4 @@ The access is READ-ONLY and READER access. If you want further access, please co
 
 ## Subscribe to Tech Spaghetti
 
-[Tech-Spaghetti blogs and newsletter](https://tech-spaghetti.com/subscribe/)
+[Tech Spaghetti blogs and newsletter](https://tech-spaghetti.com/subscribe/)
